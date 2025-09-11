@@ -24,6 +24,3 @@
 - 🎬 Big fan of rom-coms and action classics from the 90s/2000s
 - 👩‍🍳 Enjoy discovering new recipes, cooking, and baking from scratch  
 - ✨ Always striving to be the best version of myself  
-
-## 🤝 Let’s Connect
-🔗 [LinkedIn](www.linkedin.com/in/mariah-gonzales-55511b217)
