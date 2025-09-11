@@ -26,4 +26,4 @@
 - ✨ Always striving to be the best version of myself  
 
 ## 🤝 Let’s Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [LinkedIn](www.linkedin.com/in/mariah-gonzales-55511b217)
