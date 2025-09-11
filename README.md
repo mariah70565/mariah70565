@@ -1,8 +1,8 @@
-# Hi, I’m Mariah 👋  
+# Hi, I’m Mariah! 👋  
 
-🎓 UC Irvine Graduate - Class of 2025 | B.S in Computer Science
-💻 Aspiring Software Engineer
-🌟 Driven, passionate, and always eager to learn & grow.  
+- 🎓 UC Irvine Graduate - Class of 2025 | B.S in Computer Science
+- 💻 Aspiring Software Engineer
+- 🌟 Driven, passionate, and always eager to learn & grow.  
 
 ## 👩‍💻 What I’m Working On
 - Building **full-stack apps** with Flask, PostgreSQL, and React  
