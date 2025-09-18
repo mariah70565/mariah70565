@@ -1,13 +1,13 @@
 # Hi, I’m Mariah! 👋  
 
 - 🎓 UC Irvine Graduate - Class of 2025 | B.S in Computer Science
-- 💻 Aspiring Software Engineer
-- 🌟 Driven, passionate, and always eager to learn & grow.  
+- 👩‍💻 Aspiring Software Engineer
+- 📈 Driven, passionate, and always eager to learn & grow.  
 
 ## 👩‍💻 What I’m Working On
-- Building **full-stack apps** with Flask, PostgreSQL, and React  
-- Showcasing projects like my **Fastfood Restaurant App** (CRUD menu + admin portal)  
-- Preparing for opportunities in software engineering!  
+- 💻 Building **full-stack apps** with Flask, PostgreSQL, and React  
+- 📌 Showcasing projects like my **Fastfood Restaurant App** (CRUD menu + admin portal)  
+- ✨ Preparing for opportunities in software engineering!  
 
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -19,8 +19,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-## 🌴 About Me
+## 🦋 About Me
 - 🌊 Love relaxing at the beach  
 - 🎬 Big fan of rom-coms and action classics from the 90s/2000s
 - 👩‍🍳 Enjoy discovering new recipes, cooking, and baking from scratch  
-- ✨ Always striving to be the best version of myself  
+- 🌱 Always striving to be the best version of myself  
